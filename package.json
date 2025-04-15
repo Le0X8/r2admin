@@ -14,9 +14,9 @@
 	"devDependencies": {
 		"@fontsource-variable/plus-jakarta-sans": "^5.0.21",
 		"@sveltejs/adapter-auto": "^3.0.0",
-		"@sveltejs/adapter-cloudflare": "^4.6.0",
-		"@sveltejs/kit": "^2.8.3",
-		"@sveltejs/vite-plugin-svelte": "^3.0.0",
+		"@sveltejs/adapter-cloudflare": "^7.0.1",
+		"@sveltejs/kit": "^2.20.6",
+		"@sveltejs/vite-plugin-svelte": "^5.0.3",
 		"@tailwindcss/typography": "^0.5.13",
 		"@types/eslint": "^8.56.7",
 		"autoprefixer": "^10.4.19",
@@ -36,7 +36,7 @@
 		"tslib": "^2.4.1",
 		"typescript": "^5.0.0",
 		"typescript-eslint": "^8.0.0-alpha.20",
-		"vite": "^5.4.14"
+		"vite": "^6.2.6"
 	},
 	"type": "module"
 }
